@@ -1,0 +1,66 @@
+Basic Info & Time
+"What time is it?"
+→ Jarvis tells the current time.
+
+"What is the date today?" / "Tell me the date"
+→ Jarvis tells today’s date.
+
+"What day is it today?"
+→ Jarvis tells the day of the week.
+
+"Tell me about Pakistan" / "Capital of Pakistan" / "Founder of Pakistan" / "History of Pakistan" / "Geography of Pakistan"
+→ Jarvis shares offline facts about Pakistan.
+
+"When is Independence Day?" / "Tell me about 14 August"
+→ Jarvis talks about Pakistan's Independence Day.
+
+Weather
+"What's the weather?" / "Tell me the weather"
+→ Jarvis fetches current weather for the configured city (needs API key).
+
+Open Applications and Websites
+"Open Chrome"
+→ Opens Google Chrome.
+
+"Open YouTube" / "Open YouTube and search for [query]"
+→ Opens YouTube, optionally searches.
+
+"Open WhatsApp"
+→ Opens WhatsApp Web.
+
+"Open Settings"
+→ Opens Windows Settings app.
+
+"Open VS Code" / "Open Visual Studio Code"
+→ Opens Visual Studio Code (if configured path exists).
+
+"Open Calculator"
+→ Opens Windows Calculator.
+
+"Open Notepad"
+→ Opens Notepad.
+
+"Open Task Manager"
+→ Opens Windows Task Manager.
+
+"Open Command Prompt" / "Open CMD"
+→ Opens Windows Command Prompt.
+
+System Commands
+"Shutdown"
+→ Schedules system shutdown in 60 seconds.
+
+"Restart"
+→ Schedules system restart in 60 seconds.
+
+"Abort shutdown" / "Cancel shutdown"
+→ Cancels scheduled shutdown/restart.
+
+"Lock workstation" / "Lock"
+→ Locks your Windows session.
+
+"Sleep"
+→ Puts computer to sleep.
+
+"Log off" / "Logoff"
+→ Logs off current user.
