@@ -1,4 +1,8 @@
+
+
 Jarvis: Your All-in-One Voice Assistant (Single File)
+
+
 Jarvis is a powerful, lightweight, and extensible voice assistant built entirely in a single Python file. Designed for Windows, it combines speech recognition and text-to-speech capabilities to offer a wide range of features, from system automation to personalized reminders and a local knowledge base.
 
 This project is perfect for developers who want a ready-to-go personal assistant or a solid foundation to build their own custom voice-controlled applications.
@@ -46,19 +50,16 @@ Clone this repository or download the jarvis.py file.
 
 Install the required libraries:
 
-Bash
-
+CMD
 pip install SpeechRecognition wikipedia PyAudio
 Optional: For conversational features, install ChatterBot:
 
-Bash
-
+CMD
 pip install chatterbot chatterbot_corpus
 Open the script and configure the User Configuration section with your preferred paths and optional API keys.
 
 Run the script:
 
-Bash
-
+CMD
 python jarvis.py
 You're all set! Just say "Hey Jarvis" or simply speak your command when prompted.
